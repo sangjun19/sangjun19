@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{sangjun19})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/sangjun19)
 
 [![코드트리|실력진단-sangjun19](https://banner.codetree.ai/v1/banner/sangjun19)](https://www.codetree.ai/profiles/sangjun19)
 
