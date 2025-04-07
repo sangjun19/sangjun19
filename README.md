@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=sangjun19)](https://solved.ac/sangjun19)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangjun19&layout=compact)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sangjun19)](https://github.com/anuraghazra/github-readme-stats)
